@@ -1,0 +1,11 @@
+{
+  "org": "Predidit",
+  "repo": "KazumiRules",
+  "versions": [
+    {
+      "commit": "2967d7babafffa92dbf35fbcb69d0fd964139e63",
+      "tag": "",
+      "parsed_at": "2026-11-10T07:06:37.770973+00:00"
+    }
+  ]
+}
