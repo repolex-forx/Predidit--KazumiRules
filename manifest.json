@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "Predidit",
+  "repo": "KazumiRules",
+  "versions": [
+    {
+      "commit": "2967d7babafffa92dbf35fbcb69d0fd964139e63",
+      "parsed_at": "2026-11-10T07:04:44.168060+00:00",
+      "filetree": "filetree/2967d7babafffa92dbf35fbcb69d0fd964139e63.nq.gz",
+      "blobs": [
+        "blob/666dc6266037a059ea53904644beace2f1ca429c.nq.gz",
+        "blob/71dce5abb2cca74797cd09d88be2f5a5eb5e60de.nq.gz",
+        "blob/c4d37460bb45738881dd07bb41e4787af9a1f4c2.nq.gz",
+        "blob/2de57b62e65e745c8c7ab3fc98ef129e1198775c.nq.gz",
+        "blob/ed6aba08a1d8b6d9b87b703c271b59b4f672e50a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
